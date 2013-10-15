@@ -1,7 +1,11 @@
 coderdojo-scratch-beginner
 ==========================
 
-Presentation for coderdojo beginner class.
+Presentation for CoderDojo beginner class.
 
-Implement a halloween-themed Pong
-Includes a second session that is out of scope for one evening.
+Implement a Halloween-themed game called Bat Away, a pong variant
+Powerpoint presentation ncludes a second session that is out of scope for one evening.
+
+Agenda and mentor tips at
+tinyurl.com/scratch-beginners-1016
+comments are welcome on the google drive doc source at http://tinyurl.com/scratch-beginners-1016-doc
